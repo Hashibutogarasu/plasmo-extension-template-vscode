@@ -5,7 +5,6 @@
             "type": "chrome",
             "request": "launch",
             "name": "Debug Chrome Extension",
-            "url": "https://youtube.com/",
             "webRoot": "${workspaceFolder}",
             "runtimeArgs": [
                 "--remote-debugging-port=9222",
